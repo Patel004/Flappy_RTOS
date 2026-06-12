@@ -220,3 +220,11 @@ Flappy_Bird/
 
 Libraries (`libs/`) and build output (`build/`) are not tracked in git.
 Run `make getlibs` after cloning to restore them.
+
+---
+
+## License
+
+This project (application source code) is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+
+The Infineon PSoC6 BSP, PDL, HAL, and FreeRTOS library components fetched via `make getlibs` carry their own licenses (Apache 2.0 and MIT) located within the respective library directories.
