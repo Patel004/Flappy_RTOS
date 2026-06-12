@@ -11,6 +11,15 @@ peripheral access via mutex, and real-time periodic sensor sampling.
 
 ---
 
+## Demo
+
+<!-- ![demo](docs/demo.gif) -->
+
+Record a GIF of the game running, save it as `docs/demo.gif`, and uncomment
+the line above.
+
+---
+
 ## Hardware
 
 | Part | Description |
