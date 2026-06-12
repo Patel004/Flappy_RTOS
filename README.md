@@ -11,15 +11,6 @@ peripheral access via mutex, and real-time periodic sensor sampling.
 
 ---
 
-## Demo
-
-<!-- ![demo](docs/demo.gif) -->
-
-Record a GIF of the game running, save it as `docs/demo.gif`, and uncomment
-the line above.
-
----
-
 ## Hardware
 
 | Part | Description |
@@ -224,7 +215,7 @@ Flappy_Bird/
     freertos.mtb        FreeRTOS library pointer
     retarget-io.mtb     UART printf library pointer
   Makefile
-  NOTES.md              Session change log and file inventory
+  NOTES.md              Development log and file inventory
 ```
 
 Libraries (`libs/`) and build output (`build/`) are not tracked in git.
